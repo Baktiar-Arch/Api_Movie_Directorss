@@ -21,8 +21,3 @@ Tugas ini mencakup dua resource utama:
   - PUT `/directors/:id` → update sutradara
   - DELETE `/directors/:id` → hapus sutradara
 
-## Cara Menjalankan
-1. Clone repository:
-   ```bash
-   git clone https://github.com/USERNAME/api-movies-directors.git
-   cd api-movies-directors
